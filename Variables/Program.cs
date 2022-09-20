@@ -10,6 +10,8 @@ namespace Variables
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Variables");
+            Console.ReadKey(true);
         }
     }
 }
